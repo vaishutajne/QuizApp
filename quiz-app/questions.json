@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is Node.js?",
+    "options": [
+      "A framework for building web applications",
+      "A runtime environment for executing JavaScript code",
+      "A database management system"
+    ],
+    "answer": "A runtime environment for executing JavaScript code"
+  },
+  {
+    "question": "What is npm?",
+    "options": [
+      "Node Package Manager",
+      "New Programming Module",
+      "Node Preprocessor Module"
+    ],
+    "answer": "Node Package Manager"
+  },
+  {
+    "question": "What is the event loop in Node.js?",
+    "options": [
+      "A loop that iterates through events in an application",
+      "A mechanism that handles I/O operations asynchronously",
+      "A loop that handles HTTP requests in Node.js"
+    ],
+    "answer": "A mechanism that handles I/O operations asynchronously"
+  },
+  {
+    "question": "What is a callback function in Node.js?",
+    "options": [
+      "A function that is called after a function has finished executing",
+      "A function that is called before a function starts executing",
+      "A function that is passed as an argument to another function"
+    ],
+    "answer": "A function that is passed as an argument to another function"
+  },
+  {
+    "question": "What does CSS stand for?",
+    "options": [
+        "Cascading Style Sheets",
+        "Computer Style Sheets",
+        "Creative Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets"
+},
+{
+  "question": "Which programming language is known as the 'language of the web'?",
+  "options": [
+      "Java",
+      "Python",
+      "JavaScript"
+  ],
+  "answer":"JavaScript"
+},
+{
+"question": "What is the purpose of the 'path' module in Node.js?",
+"options": [
+    "To manage file system paths",
+    "To handle HTTP requests",
+    "To manipulate arrays"
+],
+"answer": "To manage file system paths"
+},
+{
+"question": "Which method is used to handle asynchronous operations in Node.js?",
+"options": [
+    "setTimeout()",
+    "setInterval()",
+    "async/await"
+],
+"answer": "async/await"
+},
+{
+"question": "What is the event emitter in Node.js?",
+"options": [
+    "A module for emitting HTTP events",
+    "A mechanism for handling memory events",
+    "A class that allows objects to emit and listen for events"
+],
+"answer":"A class that allows objects to emit and listen for events"
+},
+{
+"question": "What is the purpose of the 'http' module in Node.js?",
+"options": [
+    "To manage HTTP headers",
+    "To create a web server",
+    "To handle HTTP cookies"
+],
+"answer":"To create a web server"
+}
+]

@@ -1,0 +1,28 @@
+<!-- public/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Node.js Quiz</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container" id="start-page">
+    <h1>Welcome to quiz</h1>
+    <button id="start-quiz-btn">Start Quiz</button>
+  </div>
+
+  <div class="container" id="quiz-page" style="display: none;">
+    <h1>Node.js Quiz</h1>
+    <div id="timer">Time Remaining: <span id="time">0:00</span></div>
+    <form id="quiz-form">
+      <div id="quiz" class="fade-in"></div>
+      <button type="submit">Submit Answers</button>
+    </form>
+    <div id="result" class="fade-in"></div>
+  </div>
+
+  <script src="quiz.js"></script>
+</body>
+</html>
