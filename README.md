@@ -32,19 +32,11 @@ Directory Structure
 kotlin
 Copy code
 
-quiz-apps/
-│
-|
-├── questions.json  
-|
-├── public/
-│   └── index.html
-|
-├── app.js  
-|
-├── package.json
-|
-└── README.md
+quiz-apps/---questions.json  
+              public/index.html
+              app.js 
+              package.json
+              README.md
 
 
 License
