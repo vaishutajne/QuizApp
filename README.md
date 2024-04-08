@@ -31,13 +31,21 @@ View your score and feedback on the quiz results.
 Directory Structure
 kotlin
 Copy code
+
 quiz-apps/
 │
+|
 ├── questions.json  
+|
 ├── public/
 │   └── index.html
+|
 ├── app.js  
+|
 ├── package.json
+|
 └── README.md
+
+
 License
 This project is licensed under the MIT License.
